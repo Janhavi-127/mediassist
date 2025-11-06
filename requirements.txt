@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+google-cloud-firestore
+requests
+google-generativeai
+python-dotenv
